@@ -1,9 +1,11 @@
-## Hi there 👋
-
-- 个人博客: [薰逸的猫窝](https://caoxunyi.cn/) 
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF69B4&center=false&vCenter=true&width=435&lines=Hi+there%2C+I'm+awkker+👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+- 🔭 个人博客: [薰逸的猫窝](https://caoxunyi.cn/) 🐱
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=awkker&label=Profile%20Visitors&color=ff69b4&style=flat-square" alt="awkker's profile views" />
 </p>
 
 <h3 align="left">Tech Stack:</h3>
@@ -13,7 +15,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  </p>
+</p>
 
 <br/>
 
