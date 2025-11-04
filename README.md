@@ -8,11 +8,11 @@
     <img src="https://img.shields.io/website?url=https%3A%2F%2Fcaoxunyi.cn&up_message=薰逸的猫窝&up_color=%23FF69B4&style=for-the-badge&label=Blog" alt="Blog">
   </a>
   
-  <a href="...你的B站主页链接..." target="_blank">
+  <a href="[...你的B站主页链接...](https://space.bilibili.com/472356194?spm_id_from=333.1007.0.0)" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-%E7%82%B9%E6%88%91%E5%85%B3%E6%B3%A8-f78aab.svg?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
   </a>
   
-  <a href="mailto:...你的邮箱...">
+  <a href="[mailto:...你的邮箱...](chw0536@126.com)">
     <img src="https://img.shields.io/badge/Email-給我发信-grey.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
 </p>
