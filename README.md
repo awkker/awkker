@@ -39,13 +39,13 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=awkker&show_icons=true&theme=sakura" alt="Awkker's GitHub Stats" />
+  <img src="https://github-stat.cnies.org/api?username=awkker&show_icons=true&theme=sakura" alt="Awkker's GitHub Stats" />
   
-  <img src="https://streak-stats.demolab.com/?user=awkker&theme=sakura" alt="Awkker's GitHub Streak" />
+  <img src="https://github-streak-stat.cnies.org?user=awkker&theme=sakura" alt="Awkker's GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awkker&layout=compact&theme=sakura" alt="Awkker's Top Languages" />
+  <img src="https://github-stat.cnies.org/api/top-langs/?username=awkker&layout=compact&theme=sakura" alt="Awkker's Top Languages" />
 </p>
 
 <br/>
